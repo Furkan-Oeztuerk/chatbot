@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 
+import thkoelnlogo from '../../images/thkoeln.jpg';
 
 const Fact = styled.div`
   padding: 5%;
@@ -18,7 +19,7 @@ export default () => (
     <section class="hero is-dark">
       <Fact>
         <ImgContainer>
-          <img src={ './images/thkoelnmask.png'} alt="THLOGO" width="150" height="150"  />
+        <img src={thkoelnlogo} alt="TH Köln Logo Mask" width="150" height="150"   className="thkoelnlogo" />
         </ImgContainer>
         <Info>
           <h1 className="title">SIIT Fact</h1>

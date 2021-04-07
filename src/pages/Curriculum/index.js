@@ -25,7 +25,7 @@ export default () => (
     <section class="hero is-dark">
       <Curriculum>
         <ImgContainer>
-          <img src={thkoelnlogo} alt="TH Köln Logo Mask" width="150" height="150"  />
+          <img src={thkoelnlogo} alt="TH Köln Logo Mask" width="150" height="150"   className="thkoelnlogo" />
         </ImgContainer>
         <Info>
           <h1 className="title">Curriculum</h1>

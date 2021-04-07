@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ChatbotApp from './App';
-import * as serviceWorker from './serviceWorker';
+
 import Main from './Main';
 import { BrowserRouter } from 'react-router-dom'
 import styled from 'styled-components'
@@ -30,4 +30,3 @@ ReactDOM.render(<AppWithRouter />, document.getElementById('root'));
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 
-serviceWorker.register();

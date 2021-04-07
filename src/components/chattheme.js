@@ -1,11 +1,13 @@
-// all available theme props
+
 const chattheme = {
     background: '#f5f8fb',
  
-    fontFamily: "",
+    fontFamily: 'Helvetica Neue',
+
+
     headerBgColor: '#ce171a',
     headerFontColor: '#ffffff',
-    headerFontSize: '15px',
+    headerFontSize: '17px',
     botBubbleColor: '#f65d22',
     botFontColor: '#fff',
     userBubbleColor: '#c42698',
