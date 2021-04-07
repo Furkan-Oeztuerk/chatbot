@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chatbot/static/css/main.ccb07f02.chunk.css",
+    "main.js": "/chatbot/static/js/main.589117ec.chunk.js",
+    "main.js.map": "/chatbot/static/js/main.589117ec.chunk.js.map",
+    "runtime-main.js": "/chatbot/static/js/runtime-main.0ca10152.js",
+    "runtime-main.js.map": "/chatbot/static/js/runtime-main.0ca10152.js.map",
+    "static/js/2.0c0c0067.chunk.js": "/chatbot/static/js/2.0c0c0067.chunk.js",
+    "static/js/2.0c0c0067.chunk.js.map": "/chatbot/static/js/2.0c0c0067.chunk.js.map",
+    "index.html": "/chatbot/index.html",
+    "static/css/main.ccb07f02.chunk.css.map": "/chatbot/static/css/main.ccb07f02.chunk.css.map",
+    "static/js/2.0c0c0067.chunk.js.LICENSE.txt": "/chatbot/static/js/2.0c0c0067.chunk.js.LICENSE.txt",
+    "static/media/diploma.79899fcc.gif": "/chatbot/static/media/diploma.79899fcc.gif",
+    "static/media/thkoeln.fd527e2e.jpg": "/chatbot/static/media/thkoeln.fd527e2e.jpg",
+    "static/media/thkoelnmask.595eddc2.png": "/chatbot/static/media/thkoelnmask.595eddc2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ca10152.js",
+    "static/js/2.0c0c0067.chunk.js",
+    "static/css/main.ccb07f02.chunk.css",
+    "static/js/main.589117ec.chunk.js"
+  ]
+}
